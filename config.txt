@@ -1,0 +1,13 @@
+EC
+authority key identifier
+subject key identifier
+key usage
+certificate policies
+subject alternative name
+issuer alternative name
+subject directory attributes
+basic constraints
+name constraints
+extended key usage
+inhibit any policy
+extensions rules
